@@ -1,4 +1,14 @@
 - commits:
+    - subject: Convert lib/utils/tty to typescript
+      hash: 6466d51e4a411b23df6f664d3c82f3f9edc791f0
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 11.25.18
+  date: 2020-02-13T13:54:11.251Z
+- commits:
     - subject: Convert lib/actions/auth to typescript
       hash: f9ece2ce7de3d0c2089692e592c70828e92353f9
       body: ''
